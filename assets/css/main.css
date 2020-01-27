@@ -2292,15 +2292,15 @@ input, select, textarea {
 			}
 
 		.icon.style1 {
-			color: #efa8b0;
+			color: #a89cc8;
 		}
 
 		.icon.style2 {
-			color: #c79cc8;
+			color: #efa8b0;
 		}
 
 		.icon.style3 {
-			color: #a89cc8;
+			color: #8cc9f0;
 		}
 
 		.icon.style4 {
@@ -2308,7 +2308,7 @@ input, select, textarea {
 		}
 
 		.icon.style5 {
-			color: #8cc9f0;
+			color: #c79cc8;
 		}
 
 		@media screen and (max-width: 1680px) {
@@ -2885,28 +2885,28 @@ input, select, textarea {
 		}
 
 			.statistics li.style1 {
-				background-color: #efa8b0;
+				background-color: #7f8de1;
 			}
 
 			.statistics li.style2 {
-				background-color: #c79cc8;
+				background-color: #a094ed;
 			}
 
 			.statistics li.style3 {
-				background-color: #a89cc8;
+				background-color: #f2cf5b;
 			}
 
 			.statistics li.style4 {
-				background-color: #9bb2e1;
+				background-color: #34becd;
 			}
 
 			.statistics li.style5 {
-				background-color: #8cc9f0;
+				background-color: #8baeb5;
 			}
 
 			.statistics li strong, .statistics li b {
 				display: block;
-				font-size: 2em;
+				font-size: 1.5em;
 				line-height: 1.1;
 				color: inherit !important;
 				font-weight: 300;
@@ -3009,7 +3009,7 @@ input, select, textarea {
 			.spotlight .image img {
 				display: block;
 				border-radius: 100%;
-				width: 16em;
+				width: 24em;
 			}
 
 		@media screen and (max-width: 980px) {
