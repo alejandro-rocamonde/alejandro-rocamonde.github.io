@@ -3748,6 +3748,10 @@ input, select, textarea {
 				#footer .copyright {
 					text-align: left;
 				}
+				
+				#footer .license {
+					text-align: left;
+				}
 
 		}
 
