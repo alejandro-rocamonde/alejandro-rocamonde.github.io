@@ -2316,7 +2316,7 @@ input, select, textarea {
 		@media screen and (max-width: 1680px) {
 
 			.icon.major:before {
-				font-size: 5.5rem;
+				font-size: 3.3rem;
 			}
 
 		}
@@ -2324,7 +2324,7 @@ input, select, textarea {
 		@media screen and (max-width: 1280px) {
 
 			.icon.major:before {
-				font-size: 4.75rem;
+				font-size: 2.85rem;
 			}
 
 		}
@@ -2822,13 +2822,13 @@ input, select, textarea {
 	}
 
 		.features li {
-			width: calc(33.33333% - 2em);
+			width: calc(25% - 2em);
 			margin-left: 2em;
 			margin-top: 3em;
 			padding: 0;
 		}
 
-			.features li:nth-child(1), .features li:nth-child(2), .features li:nth-child(3) {
+			.features li:nth-child(1), .features li:nth-child(2), .features li:nth-child(3), .features li:nth-child(4) {
 				margin-top: 0;
 			}
 
@@ -2842,7 +2842,7 @@ input, select, textarea {
 				width: calc(50% - 2em);
 			}
 
-				.features li:nth-child(3) {
+				.features li:nth-child(3), .features li:nth-child(4) {
 					margin-top: 3em;
 				}
 
@@ -2865,6 +2865,10 @@ input, select, textarea {
 						margin-top: 2em;
 					}
 
+		}
+		
+		.features p {
+			font-size: 0.85em;
 		}
 
 /* Statistics */
